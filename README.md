@@ -1,2 +1,6 @@
 # Equity-Derivative
-I've created a structured README.md file for your GitHub profile, highlighting your NISM mock test score and data analytics skills.
+Before (Unclear Statement)
+✅ "Completed a mock test for NISM Equity Derivatives, demonstrating a strong understanding of equity derivatives, options, futures, and market strategies."
+
+After (Clear & Honest Statement)
+✅ "Attempted a mock test for NISM Equity Derivatives and scored 73.75%. This reflects my understanding of equity derivatives, options, futures, and market strategies. I am working towards official certification.".
